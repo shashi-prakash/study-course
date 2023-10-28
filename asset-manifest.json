@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/study-course/static/js/main.e21ec7a2.js",
+    "main.js": "/study-course/static/js/main.a859169b.js",
     "index.html": "/study-course/index.html",
-    "main.e21ec7a2.js.map": "/study-course/static/js/main.e21ec7a2.js.map"
+    "main.a859169b.js.map": "/study-course/static/js/main.a859169b.js.map"
   },
   "entrypoints": [
-    "static/js/main.e21ec7a2.js"
+    "static/js/main.a859169b.js"
   ]
 }
